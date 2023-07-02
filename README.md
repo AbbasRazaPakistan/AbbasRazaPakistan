@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbbasRazaPakistan
+- 👋 Hi, I’m Abbas Raza from Pakistan
 - 👀 I’m interested in Website development
 - 🌱 I’m currently learning Git, Github & CSS
   <!--- 💞️ I’m looking to collaborate on ... 
